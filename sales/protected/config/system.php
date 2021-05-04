@@ -2,12 +2,12 @@
 
 return array(
 	'drs'=>array(
-		'webroot'=>'http://192.168.0.106/dr-new',
+		'webroot'=>'http://192.168.0.105/dr-new',
 		'name'=>'Daily Report',
 		'icon'=>'fa fa-pencil-square-o',
 	),
 	'acct'=>array(
-		'webroot'=>'http://192.168.0.106/ac-new',
+		'webroot'=>'http://192.168.0.105/ac-new',
 		'name'=>'Accounting',
 		'icon'=>'fa fa-money',
 	),
@@ -17,12 +17,12 @@ return array(
 //		'icon'=>'fa fa-gears',
 //	),
 	'hr'=>array(
-		'webroot'=>'http://192.168.0.106/hr-new',
+		'webroot'=>'http://192.168.0.105/hr-new',
 		'name'=>'Personnel',
 		'icon'=>'fa fa-users',
 	),
 	'sal'=>array(
-		'webroot'=>'http://192.168.0.106/sa-new',
+		'webroot'=>'http://192.168.0.105/sa-new',
 		'name'=>'Sales',
 		'icon'=>'fa fa-suitcase',
 	),
